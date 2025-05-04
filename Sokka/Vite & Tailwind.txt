@@ -1,0 +1,2 @@
+npx @david-webdev/tailwind-starter
+
