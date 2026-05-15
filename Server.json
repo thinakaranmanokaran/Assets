@@ -1,0 +1,8 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "Scheduled Maintenance",
+    "message": "We'll be back in 2 hours",
+    "retryAfter": 7200
+  }
+}
